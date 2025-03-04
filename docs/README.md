@@ -43,7 +43,7 @@ To search for only one user:
 sherlock user123
 ```
 
-To search for more than one user:
+To search for more than one user: Sherlock 666keishatonasket666@gmail.com
 ```bash
 sherlock user1 user2 user3
 ```
